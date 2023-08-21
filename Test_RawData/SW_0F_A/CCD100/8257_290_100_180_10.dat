@@ -1,0 +1,424 @@
+#   DataFileName=0F_A_1011_1320_78257-00026.fits
+#   DataFileType=FITS
+#   EXPOSURE=6.25
+#   TEMP=-45.
+#   RINGCRNT=498.926239013672
+#   DATE='2022-10-11T13:29:38'
+#   ROI_L=1309
+#   ROI_T=526
+#   ROI_R=2539
+#   ROI_B=1627
+#   EPU Polarization=100. [Counts]
+#   Coolstage Temp C=0.
+#   CCD Temperature=-45.
+#   Beam Current=498.844604492188
+#   TEY signal=-0.00403514026884011
+#   IZERO=-0.141006079986665
+#   Photodiode=-0.00463266976574159
+#   AI 0=0.137882061910884
+#   AI 3 Izero=0.24546831486506
+#   AI 5=0.244051396452845
+#   AI 6 BeamStop=-0.959342707320137
+#   AI 7=0.000483727313081908
+#   Temperature Controller=0. [K]
+#   PZT Shutter=0. [sec]
+#   Pause Trigger=0.
+#   LV Memory=941436.
+#   Stamp Error=-0.0068202018737793
+#   Stamp Transmit Time=0.196033924818039
+#   Stamp Server Time=0.803966075181961
+#   Camera Temp Setpoint=-45. [Degrees]
+#   Sample Azimuthal Rotation=0. [Degrees]
+#   Piezo Vertical=0. [Micron]
+#   Piezo Horiz=0. [Micron]
+#   Sample X=38.477 [mm]
+#   Sample Y=15.26 [mm]
+#   Sample Z=-1.3 [mm]
+#   Sample Theta=90. [Degrees]
+#   Sample Y Scaled=14.339709393193 [Counts]
+#   CCD Theta=-1.571 [Degrees]
+#   Beam Stop=-1.413 [mm]
+#   Pollux CCD X=0. [mm]
+#   Pollux CCD Y=0. [mm]
+#   CCD X=100.11 [mm]
+#   CCD Y=100. [mm]
+#   T-2T=90.
+#   Beamline Energy=290.000680101287 [eV]
+#   Mono 101 Grating=-36.9143555710552 [mm]
+#   Beamline Energy Goal=0. [eV]
+#   Entrance Slit width=35. [eV]
+#   Exit Slit Left=3108. [Micron]
+#   Exit Slit Right=7910. [Micron]
+#   Horizontal Exit Slit Size=3000. [Micron]
+#   Horizontal Exit Slit Position=-450. [Micron]
+#   Vertical Exit Slit Size=24.9000000000001 [Micron]
+#   Vertical Exit Slit Position=-0.040000000000191 [Micron]
+#   EPU Gap=27.8141125 [mm]
+#   EPU Z=-1.52587887563942E-09 [mm]
+#   Mono Energy=290.000680101287 [eV]
+#   M103 Yaw=2.6134 [mm]
+#   M103 Bend Up=0.5591 [mm]
+#   M103 Bend Down=1.0028 [mm]
+#   M101 Feedback=0. [mm]
+#   M101 Horizontal Deflection=2.118 [milliradians]
+#   M101 Vertical Deflection=-12.716 [milliradians]
+#   Vertical Slit Position=-0.040000000000191 [Micron]
+#   Vertical Slit Size=24.9000000000001 [Micron]
+#   Horizontal Slit Position=-450. [Micron]
+#   Mono 101 Vessel=24.9999333333333 [mm]
+#   Horizontal Slit Size=3000. [Micron]
+#   Diag 106=94. [mm]
+#   M121 Translation=17.99971 [mm]
+#   PiezoShutter Trans=17.5 [mm]
+#   Higher Order Suppressor=6.49970186747168 [mm]
+#   AO 0=0. [Counts]
+#   AO 1=0. [Counts]
+#   OSP Adjustment=0. [Counts]
+#   CCD Shutter Control=0. [Counts]
+#   Upstream JJ Vert Aperture=0.709349593495935 [mm]
+#   Upstream JJ Vert Trans=0.0756643800813008 [mm]
+#   Upstream JJ Horz Aperture=0.729674796747967 [mm]
+#   Upstream JJ Horz Trans=0.641130589430894 [mm]
+#   Middle JJ Vert Aperture=0.65 [mm]
+#   Middle JJ Vert Trans=1.46585619918699 [mm]
+#   Middle JJ Horz Aperture=0.65 [mm]
+#   Middle JJ Horz Trans=0.823918953252032 [mm]
+#   In-Chamber JJ Vert Aperture=0.846837693675387 [mm]
+#   In-Chamber JJ Vert Trans=-1.18008636017272 [mm]
+#   In-Chamber JJ Horz Aperture=0.59740919481839 [mm]
+#   In-Chamber JJ Horz Trans=1.03175006350013 [mm]
+#   Sample Number=4. [Counts]
+#   Coolstage=0. [C]
+#   MCS_axis0=0. [Degrees]
+#   MCS_axis1=0. [Degrees]
+#   MCS_axis2=0. [Degrees]
+#   MCS_axis3=0. [Degrees]
+#   MCS_axis4=0. [Degrees]
+#   CCD Camera Shutter Inhibit=0. [Counts]
+#   Camera ROI X=0. [Counts]
+#   Camera ROI Y=0. [Counts]
+#   Camera ROI Width=2048. [Counts]
+#   Camera ROI Height=2048. [Counts]
+#   Camera ROI X Bin=2. [Counts]
+#   Camera ROI Y Bin=2. [Counts]
+#   SampleRot0=0. [Degrees]
+#   SampleRot1=0. [Degrees]
+#   SampleRot2=0. [Degrees]
+#   SampleRot3=0. [Degrees]
+#   SampleRot4=0. [Degrees]
+#   EXTNAME='Izeros'
+#   TTYPE1='0 '
+#   TFORM1='E '
+#   PCOUNT=0
+#   GCOUNT=1
+#   BZERO=32768
+#   BSCALE=1
+#   EXTNAME='Images'
+#   DataFilePath=Macintosh HD:Users:stephen:Desktop:Scattering_Local:Data_RawArchive_WORKING:20221011_ALS_RSoXS:Stephen:SW_0F_A:CCD100:CCD:
+#   DateTimeComp=3750853392
+#   
+#   Processed on=Wed, Nov 9, 2022,3:43:12 PM
+#   Units=Arbitrary
+#   SampleThickness=1
+#   SampleTransmission=1
+#   SampleCorrectFnct=NI1_RSoXSFindCorrectionFactor
+#   CorrectionFactor=0.034483
+#   SampleMeasurementTime=6.25
+#   EmptyMeasurementTime=1
+#   BackgroundMeasTime=1
+#   SampleMonitorFnct=NI1_RSoXSFindNormalFactor
+#   SampleI0=1.0969e+11
+#   EmptyI0=1
+#   \rDataFileName=0F_A_1011_1320_78257-00026.fits
+#   DataFileType=FITS
+#   EXPOSURE=6.25
+#   TEMP=-45.
+#   RINGCRNT=498.926239013672
+#   DATE='2022-10-11T13:29:38'
+#   ROI_L=1309
+#   ROI_T=526
+#   ROI_R=2539
+#   ROI_B=1627
+#   EPU Polarization=100. [Counts]
+#   Coolstage Temp C=0.
+#   CCD Temperature=-45.
+#   Beam Current=498.844604492188
+#   TEY signal=-0.00403514026884011
+#   IZERO=-0.141006079986665
+#   Photodiode=-0.00463266976574159
+#   AI 0=0.137882061910884
+#   AI 3 Izero=0.24546831486506
+#   AI 5=0.244051396452845
+#   AI 6 BeamStop=-0.959342707320137
+#   AI 7=0.000483727313081908
+#   Temperature Controller=0. [K]
+#   PZT Shutter=0. [sec]
+#   Pause Trigger=0.
+#   LV Memory=941436.
+#   Stamp Error=-0.0068202018737793
+#   Stamp Transmit Time=0.196033924818039
+#   Stamp Server Time=0.803966075181961
+#   Camera Temp Setpoint=-45. [Degrees]
+#   Sample Azimuthal Rotation=0. [Degrees]
+#   Piezo Vertical=0. [Micron]
+#   Piezo Horiz=0. [Micron]
+#   Sample X=38.477 [mm]
+#   Sample Y=15.26 [mm]
+#   Sample Z=-1.3 [mm]
+#   Sample Theta=90. [Degrees]
+#   Sample Y Scaled=14.339709393193 [Counts]
+#   CCD Theta=-1.571 [Degrees]
+#   Beam Stop=-1.413 [mm]
+#   Pollux CCD X=0. [mm]
+#   Pollux CCD Y=0. [mm]
+#   CCD X=100.11 [mm]
+#   CCD Y=100. [mm]
+#   T-2T=90.
+#   Beamline Energy=290.000680101287 [eV]
+#   Mono 101 Grating=-36.9143555710552 [mm]
+#   Beamline Energy Goal=0. [eV]
+#   Entrance Slit width=35. [eV]
+#   Exit Slit Left=3108. [Micron]
+#   Exit Slit Right=7910. [Micron]
+#   Horizontal Exit Slit Size=3000. [Micron]
+#   Horizontal Exit Slit Position=-450. [Micron]
+#   Vertical Exit Slit Size=24.9000000000001 [Micron]
+#   Vertical Exit Slit Position=-0.040000000000191 [Micron]
+#   EPU Gap=27.8141125 [mm]
+#   EPU Z=-1.52587887563942E-09 [mm]
+#   Mono Energy=290.000680101287 [eV]
+#   M103 Yaw=2.6134 [mm]
+#   M103 Bend Up=0.5591 [mm]
+#   M103 Bend Down=1.0028 [mm]
+#   M101 Feedback=0. [mm]
+#   M101 Horizontal Deflection=2.118 [milliradians]
+#   M101 Vertical Deflection=-12.716 [milliradians]
+#   Vertical Slit Position=-0.040000000000191 [Micron]
+#   Vertical Slit Size=24.9000000000001 [Micron]
+#   Horizontal Slit Position=-450. [Micron]
+#   Mono 101 Vessel=24.9999333333333 [mm]
+#   Horizontal Slit Size=3000. [Micron]
+#   Diag 106=94. [mm]
+#   M121 Translation=17.99971 [mm]
+#   PiezoShutter Trans=17.5 [mm]
+#   Higher Order Suppressor=6.49970186747168 [mm]
+#   AO 0=0. [Counts]
+#   AO 1=0. [Counts]
+#   OSP Adjustment=0. [Counts]
+#   CCD Shutter Control=0. [Counts]
+#   Upstream JJ Vert Aperture=0.709349593495935 [mm]
+#   Upstream JJ Vert Trans=0.0756643800813008 [mm]
+#   Upstream JJ Horz Aperture=0.729674796747967 [mm]
+#   Upstream JJ Horz Trans=0.641130589430894 [mm]
+#   Middle JJ Vert Aperture=0.65 [mm]
+#   Middle JJ Vert Trans=1.46585619918699 [mm]
+#   Middle JJ Horz Aperture=0.65 [mm]
+#   Middle JJ Horz Trans=0.823918953252032 [mm]
+#   In-Chamber JJ Vert Aperture=0.846837693675387 [mm]
+#   In-Chamber JJ Vert Trans=-1.18008636017272 [mm]
+#   In-Chamber JJ Horz Aperture=0.59740919481839 [mm]
+#   In-Chamber JJ Horz Trans=1.03175006350013 [mm]
+#   Sample Number=4. [Counts]
+#   Coolstage=0. [C]
+#   MCS_axis0=0. [Degrees]
+#   MCS_axis1=0. [Degrees]
+#   MCS_axis2=0. [Degrees]
+#   MCS_axis3=0. [Degrees]
+#   MCS_axis4=0. [Degrees]
+#   CCD Camera Shutter Inhibit=0. [Counts]
+#   Camera ROI X=0. [Counts]
+#   Camera ROI Y=0. [Counts]
+#   Camera ROI Width=2048. [Counts]
+#   Camera ROI Height=2048. [Counts]
+#   Camera ROI X Bin=2. [Counts]
+#   Camera ROI Y Bin=2. [Counts]
+#   SampleRot0=0. [Degrees]
+#   SampleRot1=0. [Degrees]
+#   SampleRot2=0. [Degrees]
+#   SampleRot3=0. [Degrees]
+#   SampleRot4=0. [Degrees]
+#   EXTNAME='Izeros'
+#   TTYPE1='0 '
+#   TFORM1='E '
+#   PCOUNT=0
+#   GCOUNT=1
+#   BZERO=32768
+#   BSCALE=1
+#   EXTNAME='Images'
+#   DataFilePath=Macintosh HD:Users:stephen:Desktop:Scattering_Local:Data_RawArchive_WORKING:20221011_ALS_RSoXS:Stephen:SW_0F_A:CCD100:CCD:
+#   DateTimeComp=3750853392
+#   
+#   Processed on=Wed, Nov 9, 2022,3:43:12 PM
+#   Units=Arbitrary
+#   SampleThickness=1
+#   SampleTransmission=1
+#   SampleCorrectFnct=NI1_RSoXSFindCorrectionFactor
+#   CorrectionFactor=0.034483
+#   SampleMeasurementTime=6.25
+#   EmptyMeasurementTime=1
+#   BackgroundMeasTime=1
+#   SampleMonitorFnct=NI1_RSoXSFindNormalFactor
+#   SampleI0=1.0969e+11
+#   EmptyI0=1
+#   Nika_SampleToDetectorDistacne=147.22
+#   Nika_Wavelength=42.753
+#   Nika_XrayEnergy=0.29
+#   Nika_PixelSizeX=0.027
+#   Nika_PixelSizeY=0.027
+#   Nika_HorizontalTilt=0
+#   Nika_VerticalTilt=0
+#   Nika_BeamCenterX=547.3
+#   Nika_BeamCenterY=594.74
+#   Nika_BeamSizeX=0
+#   Nika_BeamSizeY=0
+#   CalibrationFormula=
+#   CorrectionFactor=0.034483
+#   SampleI0=1.0969e+11
+#   EmptyI0=1
+#   CurrentDarkFieldName=
+#   CurrentMaskFileName=0F_A_CCD100_v1_mask.hdf
+#   QvectorMaxNumPnts=0
+#   QvectorNumberPoints=150
+#   AngularSector=180
+#   AngularHalfWidth=10
+#   PolarizationCorrection=None
+#   UncertainityCalculationMethod=OldNikaMethod
+
+0.0011438774	1.3746635e-09	1.121527e-09	4.973379e-05
+0.001243345	1.2578958e-09	2.5115782e-10	4.973379e-05
+0.0013428126	1.1645892e-09	1.569708e-10	4.973379e-05
+0.0014422801	1.161172e-09	1.4398452e-10	4.973379e-05
+0.0015417477	1.0994221e-09	1.2953617e-10	4.9733848e-05
+0.0016412154	1.0446233e-09	1.1750463e-10	4.973379e-05
+0.001740683	1.0045306e-09	1.1159299e-10	4.973379e-05
+0.0018401506	9.4725883e-10	1.0458703e-10	4.973379e-05
+0.0019396181	8.9635033e-10	9.2435774e-11	4.9733848e-05
+0.0020390858	8.4238694e-10	8.5080887e-11	4.973379e-05
+0.0021385534	7.909956e-10	8.1571298e-11	4.973379e-05
+0.002238021	7.5321155e-10	7.2134472e-11	4.973379e-05
+0.0023374886	6.8652095e-10	6.486188e-11	4.973379e-05
+0.0024369562	6.3237426e-10	6.1125299e-11	4.973379e-05
+0.0025364237	5.896858e-10	5.2948677e-11	4.973379e-05
+0.0026358913	5.334288e-10	4.7144125e-11	4.973379e-05
+0.0027353589	4.9472776e-10	4.4423038e-11	4.973379e-05
+0.0028348265	4.4752413e-10	3.8655992e-11	4.973379e-05
+0.0029342941	4.018593e-10	3.3959391e-11	4.973379e-05
+0.0030337616	3.7575879e-10	3.1419534e-11	4.9733906e-05
+0.0031332294	3.4232103e-10	2.8327818e-11	4.973379e-05
+0.003232697	3.0448513e-10	2.4454105e-11	4.973379e-05
+0.0033321646	2.7375602e-10	2.1776759e-11	4.973379e-05
+0.0034316322	2.4533311e-10	1.9640284e-11	4.973379e-05
+0.0035310998	2.2534316e-10	1.7180382e-11	4.973379e-05
+0.0036305673	2.0116415e-10	1.5292621e-11	4.973379e-05
+0.0037300349	1.8694421e-10	1.442142e-11	4.973379e-05
+0.0038295025	1.6611187e-10	1.2146062e-11	4.973379e-05
+0.0039289701	1.4617411e-10	1.0631502e-11	4.973379e-05
+0.0040284377	1.3696685e-10	9.988242e-12	4.973379e-05
+0.0041279052	1.2107913e-10	8.7142056e-12	4.973379e-05
+0.0042273728	1.1273046e-10	7.8532823e-12	4.973379e-05
+0.0043268404	1.0282668e-10	7.2338936e-12	4.973379e-05
+0.004426308	9.4154344e-11	6.5591608e-12	4.973379e-05
+0.0045257756	8.6962076e-11	5.8619958e-12	4.973379e-05
+0.0046252431	8.1255142e-11	5.4772762e-12	4.973379e-05
+0.0047247107	7.5654379e-11	5.1467029e-12	4.973379e-05
+0.0048241783	6.8581432e-11	4.4730261e-12	4.973379e-05
+0.0049236459	6.2049116e-11	4.0297466e-12	4.9734022e-05
+0.0050231139	6.3805003e-11	4.2246718e-12	4.973379e-05
+0.0051225815	5.612371e-11	3.5559045e-12	4.973379e-05
+0.0052220491	5.333611e-11	3.3657124e-12	4.973379e-05
+0.0053215167	5.2142429e-11	3.2904593e-12	4.973379e-05
+0.0054209842	4.7687708e-11	2.9856367e-12	4.973379e-05
+0.0055204518	4.4662347e-11	2.7275268e-12	4.973379e-05
+0.0056199194	4.2680044e-11	2.6064151e-12	4.973379e-05
+0.005719387	3.9048351e-11	2.4117628e-12	4.973379e-05
+0.0058188546	3.7886142e-11	2.2434641e-12	4.973379e-05
+0.0059183221	3.7313388e-11	2.2134595e-12	4.973379e-05
+0.0060177897	3.5025087e-11	2.1152368e-12	4.973379e-05
+0.0061172573	3.2282035e-11	1.863111e-12	4.973379e-05
+0.0062167249	3.279647e-11	1.8959753e-12	4.973379e-05
+0.0063161924	2.9005409e-11	1.688003e-12	4.973379e-05
+0.00641566	2.669729e-11	1.5280468e-12	4.973379e-05
+0.0065151276	2.8412288e-11	1.6001203e-12	4.973379e-05
+0.0066145952	2.660165e-11	1.4981393e-12	4.973379e-05
+0.0067140628	2.5797177e-11	1.459799e-12	4.973379e-05
+0.0068135303	2.4760412e-11	1.3603596e-12	4.973379e-05
+0.0069129979	2.3039749e-11	1.2638702e-12	4.973379e-05
+0.0070124655	2.1540519e-11	1.1978153e-12	4.973379e-05
+0.0071119331	2.0260852e-11	1.0886641e-12	4.973379e-05
+0.0072114007	2.092506e-11	1.1210753e-12	4.973379e-05
+0.0073108682	1.9686433e-11	1.0608028e-12	4.973379e-05
+0.0074103358	1.9382173e-11	1.0324653e-12	4.9734022e-05
+0.0075098039	1.8606188e-11	9.7466956e-13	4.973379e-05
+0.0076092714	1.6950752e-11	8.9150237e-13	4.973379e-05
+0.007708739	1.7796827e-11	9.3732238e-13	4.973379e-05
+0.0078082066	1.6886678e-11	8.6456591e-13	4.9733557e-05
+0.0079076737	1.5358057e-11	7.8909898e-13	4.9734022e-05
+0.0080071418	1.4893878e-11	7.7349867e-13	4.9733557e-05
+0.0081066089	1.4693696e-11	7.3776223e-13	4.9734022e-05
+0.0082060769	1.3644182e-11	6.8419218e-13	4.9733557e-05
+0.008305544	1.4227048e-11	7.1872673e-13	4.9734022e-05
+0.0084050121	1.384869e-11	6.9087834e-13	4.9733557e-05
+0.0085044792	1.4979762e-11	7.381791e-13	4.9734022e-05
+0.0086039472	1.2798275e-11	6.3066279e-13	4.9733557e-05
+0.0087034144	1.3171211e-11	6.5218442e-13	4.9734022e-05
+0.0088028824	1.1939433e-11	5.7626668e-13	4.9734022e-05
+0.0089023504	1.2325388e-11	5.9370727e-13	4.9733557e-05
+0.0090018176	1.2021506e-11	5.895062e-13	4.9734022e-05
+0.0091012856	1.1658377e-11	5.5188249e-13	4.9733557e-05
+0.0092007527	1.1738628e-11	5.552363e-13	4.9734022e-05
+0.0093002208	1.2702605e-11	6.022208e-13	4.9733557e-05
+0.0093996879	1.1997945e-11	5.7064293e-13	4.9734022e-05
+0.0094991559	1.0664533e-11	4.949365e-13	4.9733557e-05
+0.009598623	1.0496501e-11	4.8819493e-13	4.9734022e-05
+0.0096980911	1.1892556e-11	5.6005011e-13	4.9733557e-05
+0.0097975582	1.0660984e-11	4.8610096e-13	4.9734022e-05
+0.0098970262	1.0343178e-11	4.7152657e-13	4.9733557e-05
+0.0099964933	1.0798044e-11	4.952771e-13	4.9734022e-05
+0.010095961	1.0384881e-11	4.7292595e-13	4.9733557e-05
+0.010195429	9.867997e-12	4.4293608e-13	4.9734022e-05
+0.010294897	1.0240952e-11	4.6098986e-13	4.9733557e-05
+0.010394364	9.8351162e-12	4.4495383e-13	4.9734022e-05
+0.010493832	1.0004066e-11	4.4201516e-13	4.9733557e-05
+0.010593299	8.5208082e-12	3.748374e-13	4.9734022e-05
+0.010692767	8.7666168e-12	3.879032e-13	4.9733557e-05
+0.010792234	8.3176105e-12	3.6648386e-13	4.9734022e-05
+0.010891702	9.6463618e-12	4.1881822e-13	4.9733557e-05
+0.010991169	8.8918031e-12	3.8564716e-13	4.9734022e-05
+0.011090637	9.2603633e-12	4.0581609e-13	4.9734022e-05
+0.011190105	9.3302041e-12	3.9774854e-13	4.9733557e-05
+0.011289572	9.3243564e-12	3.9801701e-13	4.9734022e-05
+0.01138904	9.0267585e-12	3.8782099e-13	4.9733557e-05
+0.011488508	8.2512417e-12	3.515077e-13	4.9734022e-05
+0.011587976	7.7947692e-12	3.2725688e-13	4.9733557e-05
+0.011687443	7.9817168e-12	3.3579625e-13	4.9734022e-05
+0.011786911	7.9426353e-12	3.377914e-13	4.9733557e-05
+0.011886378	7.7569062e-12	3.2065052e-13	4.9734022e-05
+0.011985846	7.5927034e-12	3.14426e-13	4.9733557e-05
+0.012085313	8.605291e-12	3.579806e-13	4.9734022e-05
+0.012184781	7.3118369e-12	3.0197418e-13	4.9733557e-05
+0.012284248	7.9391892e-12	3.2490289e-13	4.9734022e-05
+0.012383716	8.4830554e-12	3.4550563e-13	4.9733557e-05
+0.012483183	8.2741869e-12	3.4117528e-13	4.9734022e-05
+0.012582651	6.7638269e-12	2.7222351e-13	4.9733557e-05
+0.012682118	7.9178964e-12	3.1802301e-13	4.9734022e-05
+0.012781586	7.8341717e-12	3.1618965e-13	4.9733557e-05
+0.012881054	8.2359787e-12	3.32084e-13	4.9734022e-05
+0.012980522	7.5644898e-12	2.9959875e-13	4.9733557e-05
+0.013079989	7.7178316e-12	3.062374e-13	4.9734022e-05
+0.013179457	7.5993213e-12	3.0383443e-13	4.9733557e-05
+0.013278924	6.9721507e-12	2.7371351e-13	4.9734022e-05
+0.013378392	7.1225092e-12	2.7857228e-13	4.9733557e-05
+0.013477859	7.3247935e-12	2.8628288e-13	4.9734022e-05
+0.013577327	6.9068154e-12	2.7208503e-13	4.9733557e-05
+0.013676794	7.3684791e-12	2.8431408e-13	4.9734022e-05
+0.013776262	6.6336802e-12	2.5523168e-13	4.9734022e-05
+0.01387573	7.9197482e-12	3.0655564e-13	4.9733557e-05
+0.013975197	7.4478349e-12	2.8742793e-13	4.9734022e-05
+0.014074665	7.4077454e-12	2.8232367e-13	4.9733557e-05
+0.014174133	8.1670868e-12	3.1066347e-13	4.9734022e-05
+0.014273601	7.0630494e-12	2.7099983e-13	4.9733557e-05
+0.014373068	6.8766438e-12	2.5960305e-13	4.9734022e-05
+0.014472536	7.2618205e-12	2.7263887e-13	4.9733557e-05
+0.014572003	7.6694085e-12	2.8794553e-13	4.9734022e-05
+0.014671471	7.1611207e-12	2.7166935e-13	4.9733557e-05
+0.014770938	5.9715939e-12	3.1791597e-13	4.9734022e-05
